@@ -1,7 +1,7 @@
 import React from 'react'
 import { Image, StyleSheet, Text, View } from 'react-native'
 
-export const Main = ({name, url}) => {
+export const Card = ({name, url}) => {
   return (
     <View style={styles.card}>
         <Image
