@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
-import {Main} from "./src/components/Main.jsx"
+import {Main} from "./src/components/Card.jsx"
 
 export default function App() {
   return (
